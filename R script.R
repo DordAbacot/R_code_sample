@@ -1,5 +1,3 @@
-setwd("C:/Users/csanchez/OneDrive - AWS Foundation/Documents/Certs files/Yanling files/Data Reports 2023/May/CWRT")
-
 library(ggplot2)
 library(dplyr)
 library(tidyr)
